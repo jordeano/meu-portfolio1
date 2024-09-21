@@ -1,0 +1,19 @@
+/* Estilos personalizados */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+h1 {
+    font-size: 3rem;
+    color: #343a40;
+}
+
+p.lead {
+    font-size: 1.25rem;
+    color: #6c757d;
+}
+
+footer {
+    background-color: #f8f9fa;
+    color: #6c757d;
+}
